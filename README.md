@@ -1,4 +1,4 @@
-# FictionalBusTimeTable
+# Zikora Greater Region (ZGR) - Bus Timetable
 
 ---
 
